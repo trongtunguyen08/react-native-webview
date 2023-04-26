@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/22ad122ac93b1a23031d7ae50fe2c07e/transformed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/22ad122ac93b1a23031d7ae50fe2c07e/transformed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/22ad122ac93b1a23031d7ae50fe2c07e/transformed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/22ad122ac93b1a23031d7ae50fe2c07e/transformed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

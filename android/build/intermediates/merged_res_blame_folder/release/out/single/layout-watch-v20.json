@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/8a33aab597f2d0f3d65610bc232c7134/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/8a33aab597f2d0f3d65610bc232c7134/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

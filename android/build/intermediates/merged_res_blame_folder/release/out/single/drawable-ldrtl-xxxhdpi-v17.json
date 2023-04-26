@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/8a33aab597f2d0f3d65610bc232c7134/transformed/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/8a33aab597f2d0f3d65610bc232c7134/transformed/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/8a33aab597f2d0f3d65610bc232c7134/transformed/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/file_provider_paths.xml",
+        "source": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "/Users/VanNhi/Documents/heygolf-rn/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/VanNhi/.gradle/caches/transforms-3/4b4c4e85ccecd30ad8ada48229306127/transformed/jetified-react-native-0.65.1/res/xml/rn_dev_preferences.xml"
+    }
+]
